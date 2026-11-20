@@ -1,0 +1,1 @@
+python -m streamlit run "G:\python\Machine Learning 1\Heart_Deasis\app.py"
